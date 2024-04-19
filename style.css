@@ -1,0 +1,129 @@
+*,html{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgba(238, 239, 240, 0.966);
+}
+
+#divyourjournal{
+    background-color: #1f1f36;
+}
+
+#yourjournal{
+    color: white;
+    font-family:candara;
+    font-size: 57px;
+    padding-top:11px;
+    padding-bottom:11px;
+    padding-left:110px;
+
+}
+
+#tell_them{
+    font-size: 35px;
+    font-family: candara;
+    padding-left: 180px;
+    margin-right: 50%;
+    padding-top:130px;
+    color: #1f1f36;
+    position: fixed;
+
+}
+
+#div_text_pembuka{
+    margin-right: 50%;
+    padding-left:184px;
+    padding-top: 17px;
+}
+
+#text_pembuka{
+    font-family:candara,monospace;
+    font-size:19px;
+    font-weight: 700;
+    margin-top: 170px;
+    position: fixed;
+
+}
+
+#box_login{
+    background-color: rgb(172, 177, 206);
+    padding-top: 35px;
+    padding-bottom: 20px;
+    position: absolute;
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-left: 780px;
+    margin-top: 130px;
+    box-shadow: 0 2px 4px black;
+    border-radius: 3px;
+
+    
+}
+
+.div_usernameoremail{
+
+}
+
+.class_label{
+    font-weight: 700;
+    font-size:19px;
+    font-family: candara;
+}
+
+.kotak_input{
+    font-size: 16px;
+    padding-top: 2px;
+    padding-left: 3px;
+    padding-bottom: 2px;
+    font-family:candara;
+    font-weight: 600;
+    width: 238px;
+    height: 25px;
+
+}
+
+#id_submit{
+}
+
+#submit_button{
+    font-size: 19px;
+    margin-top: 20px;
+    padding-left: 94px;
+    padding-right:94px;
+    padding-top:3px;
+    padding-bottom: 3px;
+}
+
+#background_kotak{
+}
+
+#opsiMasuk{
+    color:white;
+    margin-top: 30px;
+}
+
+.opsi{
+    text-decoration: none;
+}
+
+#divNavBar{
+    position: flex;
+    background-color: aqua;
+    margin-left: 1000px;
+
+
+}
+
+.navBar{
+    text-decoration: none;
+    font-family: candara;
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+    padding:3px 5px 3px 5px;
+    background-color: red;
+
+
+}
